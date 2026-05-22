@@ -1,0 +1,18 @@
+[project]
+name = "test-simply"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "patchright>=1.58.2",
+    "playwright>=1.58.0",
+    "playwright-stealth>=2.0.3",
+    "python-dotenv>=1.2.2",
+    "rapidfuzz>=3.14.5",
+    "requests>=2.33.1",
+    "langchain",
+    "langchain-groq",
+    "python-dotenv",
+    "supabase"
+]
