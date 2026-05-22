@@ -1,6 +1,6 @@
-# test-simply
+# SimplyWall St Scraper
 
-Playwright scraper for Simply Wall St — extracts management and shareholder data for SGX-listed companies.
+Playwright scraper for Simply Wall St, extracts management and shareholder data for SGX-listed companies.
 
 ## Setup
 
